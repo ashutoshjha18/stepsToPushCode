@@ -1,5 +1,3 @@
-# stepsToPushCode
-
 
 If you've created a new repository on GitHub and want to push your local project to it for the first time, use these steps:
 
